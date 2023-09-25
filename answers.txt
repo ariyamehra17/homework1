@@ -1,0 +1,1 @@
+What is a remote repository? A remote repository is a version control repository that is hosted on a server in another remote location, separate from your local development environment.
